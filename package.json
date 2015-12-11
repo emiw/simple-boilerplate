@@ -7,7 +7,7 @@
   },
   "scripts": {
     "test": "npm run lint && ava",
-    "test:cov": "npm run lint && istanbul cover _mocha",
+    "test:cov": "nyc npm run test",
     "watch": "npm-watch",
     "lint": "eslint ."
   },
@@ -28,6 +28,7 @@
     "eslint": "^1.10.1",
     "eslint-config-airbnb": "^1.0.0",
     "npm-watch": "0.0.1",
+    "nyc": "^5.0.0",
     "proxyquire": "^1.7.3",
     "rewire": "^2.5.0"
   },

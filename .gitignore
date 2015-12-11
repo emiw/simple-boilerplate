@@ -1,5 +1,11 @@
 # Created by https://www.gitignore.io/api/intellij,webstorm,node,linux,osx,sublimetext,textmate,windows,vim,emacs
 
+### Build ###
+
+coverage/
+.nyc_output/
+TODO.txt
+
 ### Intellij ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio
 
@@ -253,9 +259,4 @@ tramp
 
 # cask packages
 .cask/
-
-
-### Build ###
-build
-dist
 
