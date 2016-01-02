@@ -3,7 +3,7 @@
 ### Build ###
 
 coverage/
-.nyc_output/
+.nyc_output
 TODO.txt
 
 ### Intellij ###
