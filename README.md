@@ -59,7 +59,7 @@ tellus non justo vehicula efficitur.
 
 ## Contributing
 
-PRs are welcome!
+PRs are welcome, but you'll have to sign the CLA.
 
 Please make sure to add tests for anything you add/fix. Run the tests (and lint your code) with:
 
