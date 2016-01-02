@@ -5,6 +5,9 @@
 coverage/
 .nyc_output
 TODO.txt
+.test
+.tmp
+dist
 
 ### Intellij ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio

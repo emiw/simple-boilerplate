@@ -1,5 +1,6 @@
 {
-  "extends": "airbnb/legacy",
+  "extends": "airbnb/base",
+  "parser": "babel-eslint",
   "rules": {
     "no-console": 0,
     "spaced-comment": 0,
