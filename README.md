@@ -18,11 +18,11 @@
 
 
 [//]: # "These use the npm package name"
-[version-badge]: 	https://img.shields.io/npm/v/simple-boilerplate.svg   "npm version"
-[downloads-badge]: https://img.shields.io/npm/dm/simple-boilerplate.svg "npm downloads"
-[npm-link]:  http://npm.im/simple-boilerplate                           "npm"
+[version-badge]: 	https://img.shields.io/npm/v/%40emiw%2Fsimple-boilerplate.svg   "npm version"
+[downloads-badge]: https://img.shields.io/npm/dm/%40emiw%2Fsimple-boilerplate.svg "npm downloads"
+[npm-link]:  http://npm.im/%40emiw%2Fsimple-boilerplate                           "npm"
 
-[license-badge]: https://img.shields.io/npm/l/simple-boilerplate.svg    "MIT License"
+[license-badge]: https://img.shields.io/npm/l/%40emiw%2Fsimple-boilerplate.svg    "MIT License"
 [license-link]:  http://emiw.mit-license.org             "MIT License"
 
 [//]: # "The rest just use the repo slug"
